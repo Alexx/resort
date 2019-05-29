@@ -1,0 +1,41 @@
+nav li {
+  display: inline;
+  padding: 8px;
+  font-size: 30px;
+  font-family: monospace;
+}
+
+nav {
+  padding: 20px;
+  background-color: darksalmon;
+}
+
+body {
+  background-color: olive;
+}
+
+p {
+  text-align: center;
+  color: #FF00FF;
+  font-size: 25px;
+  text-shadow: -1px -1px #000;
+}
+
+h1 {
+  font-size: 100px;
+  font-style: italic;
+  text-align: center;
+  font-family: monospace;
+  text-shadow: -3px -3px #ff00ff;
+}
+
+h2 {
+  font-size: 60px;
+  text-align: center;
+  font-family: cursive;
+}
+
+ul {
+  font-size: 30px;
+  font-family: comic sans ms;
+}
